@@ -57,5 +57,6 @@ I am proud to have successfully completed the **NPTEL Online Certification** cou
 
 ## 📂 Certificate
 
-The certificate image is included in this repository under the filename `certificate.jpeg`.
+The certificate image is included in this repository under the filename `[certificate.jpeg]
+(https://github.com/meakashu/NPTEL-Elite-Certification---Programming-in-Java/blob/main/certificate.jpeg)`.
 
